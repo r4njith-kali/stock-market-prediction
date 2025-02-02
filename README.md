@@ -141,7 +141,27 @@ st.write(data)
 st.pyplot(fig1)
 ```
 
----
+🖼️ Screenshots
+
+📉 Stock Price vs MA50 vs MA100
+
+![4F0DB8CC-3726-4E55-A834-D8DAF143CFC1](https://github.com/user-attachments/assets/8e3d96ab-b908-4ac2-a12e-86e8d879877b)
+
+
+📊 Stock Price vs MA100 vs MA200
+
+![08CFE7D4-39C6-4981-8CA5-275E06D71CA5](https://github.com/user-attachments/assets/3b452340-ffd0-46f9-a861-12e90d477d23)
+
+
+🔮 Stock Price Prediction
+
+![6F1EDC7D-BF53-41D9-9132-A5B0CEA82EBB](https://github.com/user-attachments/assets/74f24013-ff12-4300-b08b-85bebf89e71e)
+
+
+📋 10-Year Stock Data Used
+
+![7F9A3052-AAC6-4750-9FB6-6D41DA4A75FB](https://github.com/user-attachments/assets/8adb98e0-adc9-4fa8-8893-c3b171f0dde3)
+
 
 ## 📌 Future Improvements
 - ✅ **Enhance Model Accuracy** with additional features (Volume, Open/High/Low Prices).
